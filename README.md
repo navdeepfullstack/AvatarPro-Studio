@@ -4,6 +4,15 @@ A premium, high-fidelity Avatar Generator built with **React**, **Vite**, and **
 
 ![AvatarPro Preview](https://raw.githubusercontent.com/dicebear/brand/main/src/logo.svg)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./public/demo_01.png" width="32%" />
+  <img src="./public/demo_02.png" width="32%" />
+  <img src="./public/demo_03.png" width="32%" />
+</p>
+
+
 ## ✨ Features
 
 - **🚀 Multiple Styles**: Seamlessly toggle between **DiceBear (SVG)** illustrations and **RandomUser (Photo)** portraits.
