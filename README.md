@@ -43,7 +43,7 @@ A premium, high-fidelity Avatar Generator built with **React**, **Vite**, and **
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/avatar-generator.git
+   git clone git@github.com:navdeepfullstack/AvatarPro-Studio.git
    cd avatar-generator
    ```
 
